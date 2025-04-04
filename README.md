@@ -10,10 +10,12 @@ Welcome to my very first **CRUD-based Todo List Web App**—a simple yet powerfu
 
 This Todo List app allows you to:
 
-- ✅ **Create** tasks
-- 🚫 **Delete** tasks
-- ✔️ **Mark tasks as complete**
-- 📋 See all your tasks listed from newest to oldest
+* **Create:** Add new tasks to their list.
+* **Read:** View all their current tasks, with completed tasks visually distinguished.
+* **Update:** Mark tasks as "completed," which visually strikes them out.
+* **Delete:** Remove tasks from their list entirely.
+* **Persistence:** All tasks are stored in a MySQL database, ensuring they persist across sessions.
+
 
 All tasks are stored in a **MySQL database**, and the app dynamically updates the UI based on the current task status. Simple, clean, and fully functional.
 
