@@ -16,7 +16,7 @@ This Todo List app allows you to:
 * **Delete:** Remove tasks from their list entirely.
 * **Persistence:** All tasks are stored in a MySQL database, ensuring they persist across sessions.
 
-All tasks are stored in a **MySQL database**, and the app dynamically updates the UI based on the current task status. Simple, clean and fully functional.
+All tasks are stored in a **MySQL database** and the app dynamically updates the UI based on the current task status. Simple, clean and fully functional.
 
 ## 🔧 Tech Stack
 
