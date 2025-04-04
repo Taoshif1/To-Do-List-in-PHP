@@ -84,7 +84,7 @@ A big thank you to the online communities, tutorials, and documentation that hav
 ![image](https://github.com/user-attachments/assets/02f4bbd8-46cf-4932-af9f-f85a939f2cda)
 ![image](https://github.com/user-attachments/assets/a07064ca-d8b7-4702-9f79-7c3aa8e3d370)
 
- [I added some tasks in the middle]
+ [i added some tasks in the middle]
 
 
 
